@@ -36,6 +36,7 @@ async function main() {
     } else if (opcion === '3') {
       //Salir
       console.log('Gracias por usar el programa');
+      
     } else {
       console.log('Opción no válida');
     }
